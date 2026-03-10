@@ -7,3 +7,7 @@
 - Mar 7, 2026: Updated and refined a previously developed project. Also practiced using GitHub from a mobile device and gained familiarity with committing changes and managing updates through the mobile interface.
 
 - Mar 9, 2026: Published RentCouture project on GitHub. Documented the database schema (7 normalized tables, BCNF), tech stack (PHP, MySQL, Razorpay API), and core features including real-time stock management and payment gateway integration.
+
+- Mar 10, 2026: Created RentCouture GitHub repository. Wrote professional README with tech stack, database design and project documentation. Uploaded DBMS project report.
+
+
