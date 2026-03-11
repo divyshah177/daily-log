@@ -10,4 +10,4 @@
 
 - Mar 10, 2026: Created RentCouture GitHub repository. Wrote professional README with tech stack, database design and project documentation. Uploaded DBMS project report.
 
-
+-Mar 11, 2026: Added project description and topic tags to Online fashion rental store repository to improve discoverability.
